@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556660502041",
+    "project_id": "letschat2-d2be5",
+    "storage_bucket": "letschat2-d2be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556660502041:android:497dfd7d7d965d5b158488",
+        "android_client_info": {
+          "package_name": "com.ruquaiyasapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-1zGLHqCMC6RFVZb_DX20mSM2BSREIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
